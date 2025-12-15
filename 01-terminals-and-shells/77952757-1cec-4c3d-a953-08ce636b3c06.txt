@@ -1,0 +1,1 @@
+My username was printed to the console
