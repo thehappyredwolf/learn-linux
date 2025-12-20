@@ -1,0 +1,9 @@
+NVIM v0.10.0
+Build type: Release
+LuaJIT 2.1.1730493772
+
+Compiled by ...
+
+Features: +acl +iconv +jemalloc +lua +main_external +mbedtls +netbeans +persistent_history +termguicolors +tui ...
+
+For more info type: ":help --version"
