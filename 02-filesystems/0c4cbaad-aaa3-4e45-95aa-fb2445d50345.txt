@@ -1,0 +1,4 @@
+./loans/jointloanshark.txt
+./accounts/jointsavings.txt
+./accounts/jointchecking.txt
+./credit_cards/jointrewardsplux.txt
